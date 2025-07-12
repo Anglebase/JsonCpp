@@ -1,6 +1,6 @@
 [project]
 name = "jsoncpp"
-version = "0.1.0"
+version = "1.9.6"
 type = "static"
 
 [build.release]
