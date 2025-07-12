@@ -1,0 +1,7 @@
+[project]
+name = "jsoncpp"
+version = "0.1.0"
+type = "static"
+
+[build.release]
+compile_options = ["-O2"]
